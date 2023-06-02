@@ -4,7 +4,7 @@ After completing my journey at the University of Southern California I made a da
 Hoping that this would be helpful for any upcoming students at USC!
 
 ![Expenses](https://github.com/veda1234/usc-dashboard/assets/23010614/112e46b2-a6ac-4bb4-865c-a23cd4dfc4de)
-![Course](https://github.com/veda1234/usc-dashboard/assets/23010614/642cfce8-ce2e-4e5b-9ff3-d76deb3d9ab6)
+![Courses](https://github.com/veda1234/usc-dashboard/assets/23010614/db9a77a0-9ec0-4eb0-b8be-f625d776a60c)
 ![Logbook](https://github.com/veda1234/usc-dashboard/assets/23010614/d26134f4-80f5-421c-a66b-c1d1343155ff)
 
 
